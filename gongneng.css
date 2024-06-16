@@ -1,0 +1,20 @@
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link{
+    color: #ffc107;
+    font-weight: bolder;
+}
+.user,.collection {
+    background:url(../images/mine-active.png) #79c7f175 no-repeat center; 
+    width: 40px; 
+    height: 40px; 
+}
+.collection {
+    background: url(../images/1.png) #79c7f175 no-repeat center;
+}
+.mybtn.btn-outline-primary {
+   color: #ffc107;
+    border-color: #ffc107;
+}
+.mybtn.mybtn.btn-outline-primary:hover {
+    color: #fff;
+    background-color: #ffc107;
+}
